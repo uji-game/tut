@@ -1,1 +1,4 @@
-print("Hello World")
+name = input("Whst's your name? ")
+
+
+print("Hello World." %name)
